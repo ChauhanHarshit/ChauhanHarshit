@@ -1,2 +1,2 @@
-# ChauhanHarshit.github.io
+# ChauhanHarshit
 ✨Hi there 👋, this is Harshit✨
