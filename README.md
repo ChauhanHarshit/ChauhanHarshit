@@ -7,8 +7,7 @@
 :mailbox: How to reach me kcn9596@gmail.com
 :zap: Fun fact I am funny:grin:
 <h3 align="left">Connect with me:</h3> <p align="left">
-<a href="https://linkedin.com/in/nikhil-rai-5409741b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-rai-5409741b1" height="30" width="40" /></a>
-<a href="https://instagram.com/hitman274402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hitman274402" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshit-chauhan-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-rai-5409741b1" height="30" width="40" /></a>
 <a href="https://discord.gg/Nikhil007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nikhil007" height="30" width="40" /></a>
 </p>
  <br/>
