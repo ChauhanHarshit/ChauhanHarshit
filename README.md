@@ -1,9 +1,9 @@
 # ChauhanHarshit
 <h1 align="center">Hi :wave:, I'm Harshit Chauhan</h1> <h3 align="center">A passionate Software Engineer</h3>
- <img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoncarter7&label=Profile%20views&color=0e75b6&style=flat" alt="jhoncarter7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChauhanHarshit&label=Profile%20views&color=0e75b6&style=flat" alt="ChauhanHarshit" /> </p>
 
 :seedling: Currently exploring depth of blockchains and L2's
-:male-technologist: All of my projects are available at https://github.com/ChauhanHarshit
+All of my projects are available at https://github.com/ChauhanHarshit
 :mailbox: How to reach me kcn9596@gmail.com
 :zap: Fun fact I am funny:grin:
 <h3 align="left">Connect with me:</h3> <p align="left">
@@ -28,7 +28,7 @@ My Skill Set
 </td><td valign="top" width="33%">
 ### Backend
 <div align="center">
- <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" height="50" /></a>
+ <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px color = orange" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
