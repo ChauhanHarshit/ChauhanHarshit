@@ -3,7 +3,7 @@
  <img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoncarter7&label=Profile%20views&color=0e75b6&style=flat" alt="jhoncarter7" /> </p>
 
 :seedling: Currently exploring depth of blockchains and L2's
-:male-technologist: All of my projects are available at https://github.com/jhoncarter7
+:male-technologist: All of my projects are available at https://github.com/ChauhanHarshit
 :mailbox: How to reach me kcn9596@gmail.com
 :zap: Fun fact I am funny:grin:
 <h3 align="left">Connect with me:</h3> <p align="left">
@@ -42,6 +42,6 @@ My Skill Set
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 </div>
 </td></tr></table>
- <br/> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhoncarter7&show_icons=true&locale=en&layout=compact" alt="jhoncarter7" /></p>
- <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoncarter7&show_icons=true&locale=en" alt="jhoncarter7" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncarter7&" alt="jhoncarter7" /></p>
+ <br/> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChauhanHarshit&show_icons=true&locale=en&layout=compact" alt="ChauhanHarshit" /></p>
+ <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChauhanHarshit&show_icons=true&locale=en" alt="ChauhanHarshit" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChauhanHarshit&" alt="ChauhanHarshit" /></p>
