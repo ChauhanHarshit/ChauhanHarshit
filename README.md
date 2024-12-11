@@ -46,5 +46,5 @@ My Skill Set
 </div>
 </td></tr></table>
  <br/> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChauhanHarshit&show_icons=true&locale=en&layout=compact" alt="ChauhanHarshit" /></p>
- <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChauhanHarshit&show_icons=true&locale=en" alt="ChauhanHarshit" /></p>
+<!--  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChauhanHarshit&show_icons=true&locale=en" alt="ChauhanHarshit" /></p> -->
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChauhanHarshit&" alt="ChauhanHarshit" /></p>
